@@ -8,7 +8,7 @@ I'm a current UVA Darden MBA student. Among other projects, I'm building interac
 
 **[The Sourcing Screen](https://github.com/bakul007/dealsourcing)** — a deal-sourcing dashboard built around an AI-enabled service-roll-up thesis, with a five-box scoring framework whose weights you can drag live to re-rank a 30-deal pipeline in real time. [Live](https://bakul007.github.io/dealsourcing/)
 
-**[Clinical Trial Screener](https://github.com/bakul007/clinicaltrial-screener)** — pulls real, live trial data from the ClinicalTrials.gov API and scores each one against a cited published base rate, adjusted by four computed factors with a full live-reweighting breakdown — no black-box score, every number sourced or fetched.
+**[Clinical Trial Screener](https://github.com/bakul007/clinicaltrial-screener)** — pulls real, live trial data from the ClinicalTrials.gov API and scores each one against a cited published base rate, adjusted by four computed factors with a full live-reweighting breakdown — no black-box score, every number sourced or fetched. [Live](https://bakul007.github.io/clinicaltrial-screener/)
 
 **[IB Technicals Fluency Trainer](https://github.com/bakul007/ibtrainer)** — a merger-model cockpit, purchase-price allocator, and DCF sensitivity heatmap built as live playgrounds, backed by generative math drills and spaced repetition.
 
