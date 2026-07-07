@@ -6,6 +6,8 @@ I'm a current UVA Darden MBA student. I build small, dependency-free interactive
 
 **[The AI Stack](https://github.com/bakul007/aistack)** — an interactive map of the AI industry from silicon to application layer, with ~20 company profiles, three money-flow traces, and a unit-economics calculator for token costs and build-vs-buy decisions. [Live](https://aistacked.netlify.app/)
 
+**[The Sourcing Screen](https://github.com/bakul007/dealsourcing)** — a deal-sourcing dashboard built around an AI-enabled service-roll-up thesis, with a five-box scoring framework whose weights you can drag live to re-rank a 30-deal pipeline in real time.
+
 **[IB Technicals Fluency Trainer](https://github.com/bakul007/ibtrainer)** — a merger-model cockpit, purchase-price allocator, and DCF sensitivity heatmap built as live playgrounds, backed by generative math drills and spaced repetition.
 
 **[MBB Case Prep Trainer](https://github.com/bakul007/consultingtrainer)** — a profit-diagnosis game that scores hypothesis-driven reasoning under a limited information budget, not memorized frameworks, plus a market-sizing builder and exhibit reader.
@@ -14,8 +16,8 @@ I'm a current UVA Darden MBA student. I build small, dependency-free interactive
 
 ## How these are built
 
-Each one is a single self-contained app — vanilla HTML/CSS/JS, no framework, no build step, no dependencies — designed, built, and shipped solo end-to-end: data model, interaction design, and deployment. The AI Stack splits data from rendering (`data.json` + `app.js`) so its content can be updated without touching the app itself; the others are single-file by design since their content doesn't go stale the same way.
+Each one is a self-contained app — vanilla HTML/CSS/JS, no framework, no build step, no dependencies — designed, built, and shipped solo end-to-end: data model, interaction design, and deployment. The AI Stack and Sourcing Screen split data from rendering (`data.json` + `app.js`) so their content can update without touching the app itself; the three trainers are single-file by design since their content doesn't go stale the same way.
 
 ## Elsewhere
 
-[LinkedIn: https://www.linkedin.com/in/bakulbadwal/] · [Personal site: https://bakulbadwal.com] · [Email: Badwalb27@darden.virginia.edu & badwalb@gmail.com]
+[LinkedIn](https://www.linkedin.com/in/bakulbadwal/) · [Site](https://bakulbadwal.com) · [Email](mailto:badwalb@gmail.com)
