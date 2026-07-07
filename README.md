@@ -1,8 +1,6 @@
 # Hi, I'm Bakul
 
-[One or two sentences on your current focus — e.g. "I work on `[role]` at `[company]`, sitting at the intersection of `[X]` and `[Y]`." Fill this in; I don't have enough to state it accurately.]
-
-I build small, dependency-free interactive tools that turn dense technical material into something you can actually drill — spaced repetition, generative problem sets, and live playgrounds instead of static notes or slide decks.
+I'm a current UVA Darden MBA student. I build small, dependency-free interactive tools that turn dense technical material into something you can actually drill — spaced repetition, generative problem sets, and live playgrounds instead of static notes or slide decks.
 
 ## Projects
 
