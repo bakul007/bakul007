@@ -6,7 +6,7 @@ I'm a current UVA Darden MBA student. I build small, dependency-free interactive
 
 **[The AI Stack](https://github.com/bakul007/aistack)** — an interactive map of the AI industry from silicon to application layer, with ~20 company profiles, three money-flow traces, and a unit-economics calculator for token costs and build-vs-buy decisions. [Live](https://aistacked.netlify.app/)
 
-**[The Sourcing Screen](https://github.com/bakul007/dealsourcing)** — a deal-sourcing dashboard built around an AI-enabled service-roll-up thesis, with a five-box scoring framework whose weights you can drag live to re-rank a 30-deal pipeline in real time.
+**[The Sourcing Screen](https://github.com/bakul007/dealsourcing)** — a deal-sourcing dashboard built around an AI-enabled service-roll-up thesis, with a five-box scoring framework whose weights you can drag live to re-rank a 30-deal pipeline in real time. [Live](https://bakul007.github.io/dealsourcing/)
 
 **[IB Technicals Fluency Trainer](https://github.com/bakul007/ibtrainer)** — a merger-model cockpit, purchase-price allocator, and DCF sensitivity heatmap built as live playgrounds, backed by generative math drills and spaced repetition.
 
