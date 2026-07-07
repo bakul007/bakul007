@@ -1,6 +1,6 @@
 # Hi, I'm Bakul
 
-I'm a current UVA Darden MBA student. I build small, dependency-free interactive tools that turn dense technical material into something you can actually drill — spaced repetition, generative problem sets, and live playgrounds instead of static notes or slide decks.
+I'm a current UVA Darden MBA student. Among other projects, I'm building interactive tools that turn dense technical material into something you can actually drill — spaced repetition, generative problem sets, and live playgrounds instead of static notes or slide decks. 
 
 ## Projects
 
@@ -12,12 +12,12 @@ I'm a current UVA Darden MBA student. I build small, dependency-free interactive
 
 **[Consulting Case Prep Trainer](https://github.com/bakul007/consultingtrainer)** — a profit-diagnosis game that scores hypothesis-driven reasoning under a limited information budget, not memorized frameworks, plus a market-sizing builder and exhibit reader.
 
-**[The P&L Room](https://github.com/bakul007/p-lroom)** — an eight-quarter run-the-business simulator under real leverage and covenants, paired with a 13-week cash-crisis room for distress-operator decision-making.
+**[The Operator's P&L Room](https://github.com/bakul007/p-lroom)** — an eight-quarter run-the-business simulator under real leverage and covenants, paired with a 13-week cash-crisis room for distress-operator decision-making.
 
 ## How these are built
 
 Each one is a self-contained app — vanilla HTML/CSS/JS, no framework, no build step, no dependencies — designed, built, and shipped solo end-to-end: data model, interaction design, and deployment. The AI Stack and Sourcing Screen split data from rendering (`data.json` + `app.js`) so their content can update without touching the app itself; the three trainers are single-file by design since their content doesn't go stale the same way.
 
-## Elsewhere
+## Connect
 
 [LinkedIn](https://www.linkedin.com/in/bakulbadwal/) · [Site](https://bakulbadwal.com) · [Email](mailto:badwalb@gmail.com)
