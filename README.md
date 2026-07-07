@@ -4,9 +4,9 @@ I'm a current UVA Darden MBA student. Among other projects, I'm building interac
 
 ## Projects
 
-**[ChainHound](https://github.com/bakulbadwal/cryptohackagent)** — an agentic on-chain hack tracer for the cases too small for Chainalysis/TRM-tier vendors to prioritize: walks live outgoing transfers hop-by-hop from a compromised wallet via the Etherscan API, has an LLM agent narrate the trace in plain English, and drafts a real demand/freeze-request letter to the receiving exchange from the trace facts — no fabricated data, no claimed institutional relationships, and it always tells the victim to file with the FBI's IC3 regardless of anything else. [Live](https://cryptohackagent.vercel.app)
-
 **[The AI Stack](https://github.com/bakulbadwal/aistack)** — an interactive map of the AI industry from silicon to application layer, with ~20 company profiles, three money-flow traces, and a unit-economics calculator for token costs and build-vs-buy decisions. [Live](https://aistacked.netlify.app/)
+
+**[ChainHound](https://github.com/bakulbadwal/cryptohackagent)** — an agentic on-chain crypto hack tracer for cases too small for Chainalysis/TRM-tier vendors to prioritize: walks live outgoing transfers hop-by-hop from a compromised wallet via the Etherscan API, has an LLM agent narrate the trace in plain English, and drafts a real demand/freeze-request letter to the receiving exchange from the trace facts. Victims should always file with the FBI's IC3 asap. [Live](https://cryptohackagent.vercel.app)
 
 **[The Sourcing Screen](https://github.com/bakulbadwal/dealsourcing)** — a deal-sourcing dashboard built around an AI-enabled service-roll-up thesis, with a five-box scoring framework whose weights you can drag live to re-rank a 30-deal pipeline in real time. [Live](https://bakulbadwal.github.io/dealsourcing/)
 
