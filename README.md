@@ -18,4 +18,4 @@ Each one is a single self-contained app — vanilla HTML/CSS/JS, no framework, n
 
 ## Elsewhere
 
-[LinkedIn: add link] · [Personal site: add link] · [Email: add if you want it public]
+[LinkedIn: https://www.linkedin.com/in/bakulbadwal/] · [Personal site: bakulbadwal.com] · [Email: Badwalb27@darden.virginia.edu & badwalb@gmail.com]
