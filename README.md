@@ -6,7 +6,7 @@ I'm a current UVA Darden MBA student. Among other projects, I'm building interac
 
 **[The AI Stack](https://github.com/bakulbadwal/aistack)** — an interactive map of the AI industry from silicon to application layer, with ~20 company profiles, three money-flow traces, and a unit-economics calculator for token costs and build-vs-buy decisions. [Live](https://aistacked.netlify.app/)
 
-**[ChainHound](https://github.com/bakulbadwal/cryptohackagent)** — an agentic on-chain crypto hack tracer for cases too small for Chainalysis/TRM-tier vendors: live tracing hop-by-hop from compromised wallet via the Etherscan API, cross-references a watchlist populated with real, current OFAC-sanctioned addresses pulled from Treasury's SDN list, LLM narration, and drafts a demand letter from the trace facts. Victims should file with the FBI's IC3 asap. [Live](https://cryptohackagent.vercel.app)
+**[TraceHound](https://github.com/bakulbadwal/tracehound)** — an agentic on-chain crypto hack tracer for cases too small for Chainalysis/TRM-tier vendors: live tracing hop-by-hop from compromised wallet via the Etherscan API, cross-references a watchlist populated with real, current OFAC-sanctioned addresses pulled from Treasury's SDN list, LLM narration, and drafts a demand letter from the trace facts. Victims should file with the FBI's IC3 asap. [Live](https://tracehound.vercel.app)
 
 **[The Sourcing Screen](https://github.com/bakulbadwal/dealsourcing)** — a deal-sourcing dashboard built around an AI-enabled service-roll-up thesis, with a five-box scoring framework whose weights you can drag live to re-rank a 30-deal pipeline in real time. [Live](https://bakulbadwal.github.io/dealsourcing/)
 
@@ -20,7 +20,7 @@ I'm a current UVA Darden MBA student. Among other projects, I'm building interac
 
 ## How these are built
 
-Most are self-contained apps — vanilla HTML/CSS/JS, no framework, no build step, no dependencies — designed, built, and shipped solo end-to-end: data model, interaction design, and deployment. The AI Stack, Sourcing Screen, and Clinical Trial Screener split data from rendering (`data.json` + `app.js`) so their content can update without touching the app itself; the three trainers are single-file by design since their content doesn't go stale the same way. Clinical Trial Screener goes a step further with a real Python data pipeline (`data/build_dataset.py`) that pulls and scores live data rather than reading from hand-authored fixtures. ChainHound is the exception — it needs a real backend to keep API keys server-side, so it's a Next.js app with server-rendered API routes, deployed on Vercel.
+Most are self-contained apps — vanilla HTML/CSS/JS, no framework, no build step, no dependencies — designed, built, and shipped solo end-to-end: data model, interaction design, and deployment. The AI Stack, Sourcing Screen, and Clinical Trial Screener split data from rendering (`data.json` + `app.js`) so their content can update without touching the app itself; the three trainers are single-file by design since their content doesn't go stale the same way. Clinical Trial Screener goes a step further with a real Python data pipeline (`data/build_dataset.py`) that pulls and scores live data rather than reading from hand-authored fixtures. TraceHound is the exception — it needs a real backend to keep API keys server-side, so it's a Next.js app with server-rendered API routes, deployed on Vercel.
 
 ## Connect
 
