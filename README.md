@@ -4,11 +4,11 @@ I'm a current UVA Darden student. I'm building tools with real-world use case ba
 
 ## Projects
 
-**[The AI Stack](https://github.com/bakulbadwal/aistack)** — an interactive map of the AI industry from silicon to application layer, with ~20 company profiles, three money-flow traces, and a personal AI-cost calculator (subscription vs. pay-as-you-go, at your own usage). [Live](https://aistacked.netlify.app/)
+**[Tranche AI](https://github.com/bakulbadwal/tranche-ai)** — condition-gated capital release for VC deals: an AI agent reviews milestone evidence and posts a signed, on-chain attestation (EAS). Solidity + Foundry, live on Base Sepolia. [Live](https://tranche-ai.vercel.app)
 
 **[TraceHound](https://github.com/bakulbadwal/tracehound)** — an agentic on-chain crypto hack tracer: live hop-by-hop tracing from compromised wallet via the Etherscan API, cross-references a watchlist populated with real, current OFAC-sanctioned addresses pulled from Treasury's SDN list, LLM narration, and drafts a demand letter. [Live](https://tracehound.vercel.app)
 
-**[Tranche AI](https://github.com/bakulbadwal/tranche-ai)** — condition-gated capital release for VC deals: an AI agent reviews milestone evidence and posts a signed, on-chain attestation (EAS). Solidity + Foundry, live on Base Sepolia. [Live](https://tranche-ai.vercel.app)
+**[The AI Stack](https://github.com/bakulbadwal/aistack)** — an interactive map of the AI industry from silicon to application layer, with ~20 company profiles, three money-flow traces, and a personal AI-cost calculator (subscription vs. pay-as-you-go, at your own usage). [Live](https://aistacked.netlify.app/)
 
 **[Deal Docket](https://github.com/bakulbadwal/dealdocket)** — a deal-sourcing dashboard built around an AI-enabled service-roll-up thesis, with a five-box scoring framework whose weights you can drag live to re-rank a 30-deal pipeline in real time. [Live](https://bakulbadwal.github.io/dealdocket/)
 
