@@ -1,6 +1,6 @@
 # Hi, I'm Bakul
 
-I'm a UVA Darden '27 student. Applied AI builder - real-world use cases in ai x bio/longevity, ai x blockchain, VC and PE, MBA trainers, etc.
+UVA Darden '27, building in Applied AI for real-world use cases in ai x bio/longevity, ai x blockchain, VC and PE, MBA trainers, etc.
 
 ## Projects
 
