@@ -1,6 +1,6 @@
 # Hi, I'm Bakul
 
-I'm a UVA Darden '27 student. I'm building AI tools with real-world use case based on my academic + professional experiences in ai x bio/longevity, ai x blockchain, VC and PE, etc. I'm also building interactive tools I use to drill dense technical material.
+I'm a UVA Darden '27 student. I'm building AI tools with real-world use case in ai x bio/longevity, ai x blockchain, VC and PE, MBA trainers, etc based on my academic + professional experiences. 
 
 ## Projects
 
