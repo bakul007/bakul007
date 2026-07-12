@@ -4,13 +4,13 @@ I'm a current UVA Darden student. I'm building tools with real-world use case ba
 
 ## Projects
 
-**Live Forever** *(private — my own health data)* — a personal longevity data engine: unifies Oura Ring, Apple Health, and clinical bloodwork (via MCP connectors + REST APIs) into one owned, normalized metrics store, computes a **PhenoAge** biological-age clock from a standard blood panel, benchmarks against Bryan Johnson's public Blueprint targets and age/sex population cohorts, and quantifies what each intervention actually moved — HRV, sleep, recovery, resilience, on a 28-day before/after basis. Python + SQLite + Model Context Protocol, fully tested.
-
 **[Tranche AI](https://github.com/bakulbadwal/tranche-ai)** — condition-gated capital release for VC deals: an AI agent reviews milestone evidence and posts a signed, on-chain attestation (EAS). Solidity + Foundry, live on Base Sepolia. [Live](https://tranche-ai.vercel.app)
 
 **[TraceHound](https://github.com/bakulbadwal/tracehound)** — an agentic on-chain crypto hack tracer: live hop-by-hop tracing from compromised wallet via the Etherscan API, cross-references a watchlist populated with real, current OFAC-sanctioned addresses pulled from Treasury's SDN list, LLM narration, and drafts a demand letter. [Live](https://tracehound.vercel.app)
 
 **[The AI Stack](https://github.com/bakulbadwal/aistack)** — an interactive map of the AI industry from silicon to application layer, with ~20 company profiles, three money-flow traces, and a personal AI-cost calculator (subscription vs. pay-as-you-go, at your own usage). [Live](https://aistacked.netlify.app/)
+
+**Live Forever** *(private)* — a personal longevity data engine: unifies Oura Ring, Apple Health, and clinical bloodwork (via MCP + REST APIs), computes a **PhenoAge** biological-age clock from a standard blood panel, benchmarks against Bryan Johnson's public Blueprint targets and population cohorts, and quantifies what each intervention actually moved — HRV, sleep, recovery, resilience, on a 28-day before/after basis.
 
 **[PhaseSignal](https://github.com/bakulbadwal/phasesignal)** — pulls real, live trial data from the ClinicalTrials.gov API and scores each one against a cited published base rate, adjusted by four computed factors with a full live-reweighting breakdown — no black-box score, every number sourced or fetched. [Live](https://bakulbadwal.github.io/phasesignal/)
 
