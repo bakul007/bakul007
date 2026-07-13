@@ -10,7 +10,7 @@
 **[Tranche AI](https://github.com/bakulbadwal/tranche-ai)** — condition-gated capital release for VC deals: an AI agent reviews milestone evidence and posts a signed, on-chain attestation (EAS). Solidity, live on Base Sepolia network.<br>
 > [Live →](https://tranche-ai.vercel.app)
 
-**[TraceHound](https://github.com/bakulbadwal/tracehound)** — an agentic on-chain crypto hack tracer: live hop-by-hop tracing from compromised wallet via the Etherscan API, cross-references an OFAC watchlist populated with real, current sanctioned addresses pulled from Treasury's SDN list, LLM narration, and a drafted demand letter. Built from volunteer experience with FBI & U.S. Secret Service on a personal 6-figure hack + tracking/referring $6M of crypto crime.<br>
+**[TraceHound](https://github.com/bakulbadwal/tracehound)** — agentic on-chain crypto hack tracer: live hop-by-hop tracing from compromised wallet via the Etherscan API, cross-references an OFAC watchlist populated with real, current sanctioned addresses pulled from Treasury's SDN list, LLM narration, and a drafted demand letter. Built from volunteer experience with FBI & U.S. Secret Service on a personal 6-figure hack + tracking/referring $6M of crypto crime.<br>
 > [Live →](https://tracehound.vercel.app)
 
 ### AI × Bio/Longevity
@@ -21,24 +21,24 @@ Then, computes a **PhenoAge** biological-age clock tracked from blood panels sin
 
 Cross-referenced against my own DNA from 23andMe (caffeine/dopamine pharmacogenomics, APOE and metabolic-risk variants) so the guidance is genetically personalized. Daily auto-refresh via MCP + REST APIs.
 
-**[PhaseSignal](https://github.com/bakulbadwal/phasesignal)** — pulls real, live trial data from the ClinicalTrials.gov API and scores each one against a cited published base rate, adjusted by four computed factors with a full live-reweighting breakdown — no black-box score.<br>
+**[PhaseSignal](https://github.com/bakulbadwal/phasesignal)** — pulls real, live trial data from the ClinicalTrials.gov API and scores each one against a cited published base rate, adjusted by four computed factors with a full live-reweighting breakdown.<br>
 > [Live →](https://bakulbadwal.github.io/phasesignal/)
 
 ### AI × VC & PE
 
-**[Deal Docket](https://github.com/bakulbadwal/dealdocket)** — a deal-screening dashboard built around an AI-enabled service-roll-up thesis, with a five-box scoring framework whose weights you can drag live to re-rank a pipeline in real time.<br>
+**[Deal Docket](https://github.com/bakulbadwal/dealdocket)** — deal-screening dashboard built around an AI-enabled service-roll-up thesis, with a five-box scoring framework whose weights you can drag live to re-rank a pipeline in real time.<br>
 > [Live →](https://bakulbadwal.github.io/dealdocket/)
 
-**[The AI Stack](https://github.com/bakulbadwal/aistack)** — an interactive map of the AI industry from silicon to application layer, with ~20 company profiles, three money-flow traces, and a personal AI-cost calculator (subscription vs. pay-as-you-go, at your own usage).<br>
+**[The AI Stack](https://github.com/bakulbadwal/aistack)** — interactive map of the AI industry from silicon to application layer, with ~20 company profiles, three money-flow traces, and a personal AI-cost calculator (subscription vs. pay-as-you-go, at your own usage).<br>
 > [Live →](https://aistacked.netlify.app/)
 
 ### E-Learning
 
-**[IB Technicals Fluency Trainer](https://github.com/bakulbadwal/ibtrainer)** — a merger-model cockpit, purchase-price allocator, and DCF sensitivity heatmap built as live playgrounds, backed by generative math drills and spaced repetition. 
+**[IB Technicals Fluency Trainer](https://github.com/bakulbadwal/ibtrainer)** — merger-model cockpit, purchase-price allocator, and DCF sensitivity heatmap built as live playgrounds, backed by generative math drills and spaced repetition. 
 
-**[Consulting Case Prep Trainer](https://github.com/bakulbadwal/consultingtrainer)** — a profit-diagnosis game that scores hypothesis-driven reasoning under a limited information budget, not memorized frameworks, plus a market-sizing builder and exhibit reader.
+**[Consulting Case Prep Trainer](https://github.com/bakulbadwal/consultingtrainer)** — profit-diagnosis game that scores hypothesis-driven reasoning under a limited information budget, not memorized frameworks, plus a market-sizing builder and exhibit reader.
 
-**[The Operator's P&L Room](https://github.com/bakulbadwal/p-lroom)** — an eight-quarter run-the-business simulator under real leverage and covenants, paired with a 13-week cash-crisis room for distress-operator decision-making.
+**[The Operator's P&L Room](https://github.com/bakulbadwal/p-lroom)** — eight-quarter run-the-business simulator under real leverage and covenants, paired with a 13-week cash-crisis room for distress-operator decision-making.
 
 ## How these are built
 
