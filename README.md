@@ -21,7 +21,7 @@ Then, computes a **PhenoAge** biological-age clock tracked from blood panels sin
 
 Cross-referenced against my own DNA from 23andMe (caffeine/dopamine pharmacogenomics, APOE and metabolic-risk variants) so the guidance is genetically personalized. Daily auto-refresh via MCP + REST APIs.
 
-**[PhaseSignal](https://github.com/bakulbadwal/phasesignal)** — pulls real, live trial data from the ClinicalTrials.gov API and scores each one against a cited published base rate, adjusted by four computed factors with a full live-reweighting breakdown — no black-box score, every number sourced or fetched.<br>
+**[PhaseSignal](https://github.com/bakulbadwal/phasesignal)** — pulls real, live trial data from the ClinicalTrials.gov API and scores each one against a cited published base rate, adjusted by four computed factors with a full live-reweighting breakdown — no black-box score.<br>
 > [Live →](https://bakulbadwal.github.io/phasesignal/)
 
 ### AI × VC & PE
