@@ -1,28 +1,38 @@
 # Hi, I'm Bakul
 
-UVA Darden '27, building for fun + real-world use cases in ai x bio/longevity, ai x blockchain, VC and PE, AI-native services, e-learning, etc.
+- 🎓 UVA Darden '27
+- 🛠️ Building for fun + real-world use cases in ai x bio/longevity, ai x blockchain, VC and PE, AI-native services, e-learning, etc.
 
 ## Projects
 
-**[Tranche AI](https://github.com/bakulbadwal/tranche-ai)** — condition-gated capital release for VC deals: an AI agent reviews milestone evidence and posts a signed, on-chain attestation (EAS). Solidity, live on Base Sepolia network. 
-    -[Live](https://tranche-ai.vercel.app)
+### AI × Blockchain
 
-**[TraceHound](https://github.com/bakulbadwal/tracehound)** — an agentic on-chain crypto hack tracer: live hop-by-hop tracing from compromised wallet via the Etherscan API, cross-references an OFAC watchlist populated with real, current sanctioned addresses pulled from Treasury's SDN list, LLM narration, and drafts a demand letter. 
-    -[Live](https://tracehound.vercel.app)
-    -Built from volunteer experience with FBI & U.S. Secret Service on a personal 6-figure hack + tracking/referring $6M of crypto crime. 
+**[Tranche AI](https://github.com/bakulbadwal/tranche-ai)** — condition-gated capital release for VC deals: an AI agent reviews milestone evidence and posts a signed, on-chain attestation (EAS). Solidity, live on Base Sepolia network.<br>
+> [Live →](https://tranche-ai.vercel.app)
 
-**LiveForever** *(live, private health control tower)* — personal longevity engine that unifies Oura Ring, Apple Health, Nori, 10+ years of clinical bloodwork and daily self-logged inputs into one owned data layer. 
-    -Then, computes a **PhenoAge** biological-age clock tracked from blood panels since 2015, benchmarks against Bryan Johnson's public Blueprint targets and age/sex population         cohorts, runs an N-of-1 correlation engine quantifying what each input (nootropics, biohacking, fitness, sleep, medication, etc.) actually does to next-day HRV, recovery,         resilience scores, plus a 28-day before/after analysis on any intervention. 
-    -Cross-referenced against my own DNA from 23andMe (caffeine/dopamine pharmacogenomics, APOE and metabolic-risk variants) so the guidance is genetically personalized. Daily         auto-refresh via MCP + REST APIs.
+**[TraceHound](https://github.com/bakulbadwal/tracehound)** — an agentic on-chain crypto hack tracer: live hop-by-hop tracing from compromised wallet via the Etherscan API, cross-references an OFAC watchlist populated with real, current sanctioned addresses pulled from Treasury's SDN list, LLM narration, and drafts a demand letter. Built from volunteer experience with FBI & U.S. Secret Service on a personal 6-figure hack + tracking/referring $6M of crypto crime.<br>
+> [Live →](https://tracehound.vercel.app)
 
-**[The AI Stack](https://github.com/bakulbadwal/aistack)** — an interactive map of the AI industry from silicon to application layer, with ~20 company profiles, three money-flow traces, and a personal AI-cost calculator (subscription vs. pay-as-you-go, at your own usage). 
-  -[Live](https://aistacked.netlify.app/)
+### AI × Bio/Longevity
 
-**[Deal Docket](https://github.com/bakulbadwal/dealdocket)** — a deal-screening dashboard built around an AI-enabled service-roll-up thesis, with a five-box scoring framework whose weights you can drag live to re-rank a pipeline in real time. 
-  -[Live](https://bakulbadwal.github.io/dealdocket/)
+**LiveForever** *(live, private health control tower)* — personal longevity engine that unifies Oura Ring, Apple Health, Nori, 10+ years of clinical bloodwork and daily self-logged inputs into one owned data layer.
 
-**[PhaseSignal](https://github.com/bakulbadwal/phasesignal)** — pulls real, live trial data from the ClinicalTrials.gov API and scores each one against a cited published base rate, adjusted by four computed factors with a full live-reweighting breakdown — no black-box score, every number sourced or fetched. 
-  -[Live](https://bakulbadwal.github.io/phasesignal/)
+Then, computes a **PhenoAge** biological-age clock tracked from blood panels since 2015, benchmarks against Bryan Johnson's public Blueprint targets and age/sex population cohorts, runs an N-of-1 correlation engine quantifying what each input (nootropics, biohacking, fitness, sleep, medication, etc.) actually does to next-day HRV, recovery, resilience scores, plus a 28-day before/after analysis on any intervention.
+
+Cross-referenced against my own DNA from 23andMe (caffeine/dopamine pharmacogenomics, APOE and metabolic-risk variants) so the guidance is genetically personalized. Daily auto-refresh via MCP + REST APIs.
+
+**[PhaseSignal](https://github.com/bakulbadwal/phasesignal)** — pulls real, live trial data from the ClinicalTrials.gov API and scores each one against a cited published base rate, adjusted by four computed factors with a full live-reweighting breakdown — no black-box score, every number sourced or fetched.<br>
+> [Live →](https://bakulbadwal.github.io/phasesignal/)
+
+### AI × VC & PE
+
+**[Deal Docket](https://github.com/bakulbadwal/dealdocket)** — a deal-screening dashboard built around an AI-enabled service-roll-up thesis, with a five-box scoring framework whose weights you can drag live to re-rank a pipeline in real time.<br>
+> [Live →](https://bakulbadwal.github.io/dealdocket/)
+
+**[The AI Stack](https://github.com/bakulbadwal/aistack)** — an interactive map of the AI industry from silicon to application layer, with ~20 company profiles, three money-flow traces, and a personal AI-cost calculator (subscription vs. pay-as-you-go, at your own usage).<br>
+> [Live →](https://aistacked.netlify.app/)
+
+### E-Learning
 
 **[IB Technicals Fluency Trainer](https://github.com/bakulbadwal/ibtrainer)** — a merger-model cockpit, purchase-price allocator, and DCF sensitivity heatmap built as live playgrounds, backed by generative math drills and spaced repetition. 
 
