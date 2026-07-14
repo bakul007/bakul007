@@ -48,4 +48,4 @@ Most are self-contained apps — vanilla HTML/CSS/JS, no framework, no build ste
 
 ## Connect
 
-[LinkedIn](https://www.linkedin.com/in/bakulbadwal/) · [Site](https://bakulbadwal.com) · [Email](mailto:badwalb@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/bakulbadwal/) · [Email](mailto:badwalb@gmail.com)
