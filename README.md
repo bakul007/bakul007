@@ -17,26 +17,26 @@
 
 **LiveForever** *(live, private health control tower)* — personal longevity engine that unifies Oura Ring, Apple Health, Nori, 10+ years of clinical bloodwork and daily self-logged inputs into one owned data layer.
 
-Then, computes a **PhenoAge** biological-age clock, benchmarks against Bryan Johnson's public Blueprint targets and age/sex population cohorts, runs an N-of-1 correlation engine quantifying what each input (nootropics, biohacking, fitness, sleep, medication, etc.) does to HRV, recovery, resilience scores, plus a 28-day before/after analysis on interventions. Cross-referenced against my own DNA from 23andMe (caffeine/dopamine pharmacogenomics, APOE and metabolic-risk variants) foer genetic personalization. Daily auto-refresh via MCP + REST APIs.
+Then, computes a **PhenoAge** biological-age clock, benchmarks against Bryan Johnson's public Blueprint targets and age/sex population cohorts, runs an N-of-1 correlation engine quantifying what each input (nootropics, biohacking, fitness, sleep, medication, etc.) does to HRV, recovery, resilience scores + 28-day before/after analysis on interventions. Genetically personalized by cross-referencing against my own DNA from 23andMe (caffeine/dopamine pharmacogenomics, APOE and metabolic-risk variants). Daily auto-refresh via MCP + REST APIs.
 
-**[PhaseSignal](https://github.com/bakulbadwal/phasesignal)** — pulls real, live trial data from the ClinicalTrials.gov API and scores each one against a cited published base rate, adjusted by four computed factors with a full live-reweighting breakdown.<br>
+**[PhaseSignal](https://github.com/bakulbadwal/phasesignal)** — pulls real, live trial data from the ClinicalTrials.gov API, scores against a cited published base rate, adjusted by four computed factors with a live-reweighting breakdown.<br>
 > [Live →](https://bakulbadwal.github.io/phasesignal/)
 
 ### AI × VC & PE
 
-**[Deal Docket](https://github.com/bakulbadwal/dealdocket)** — deal-screening dashboard built around an AI-enabled service-roll-up thesis, with a five-box scoring framework whose weights you can drag live to re-rank a pipeline in real time.<br>
+**[Deal Docket](https://github.com/bakulbadwal/dealdocket)** — deal-screening dashboard built around an AI-enabled service-roll-up thesis with five-box scoring framework whose weights you can drag live to re-rank a pipeline.<br>
 > [Live →](https://bakulbadwal.github.io/dealdocket/)
 
-**[The AI Stack](https://github.com/bakulbadwal/aistack)** — interactive map of the AI industry from silicon to application layer, with ~20 company profiles, three money-flow traces, and a personal AI-cost calculator (subscription vs. pay-as-you-go, at your own usage).<br>
+**[The AI Stack](https://github.com/bakulbadwal/aistack)** — interactive map of the AI industry from silicon to application layer, ~20 company profiles, three money-flow traces, and a personal AI-cost calculator (subscription vs. pay-as-you-go, at your own usage).<br>
 > [Live →](https://aistacked.netlify.app/)
 
 ### E-Learning
 
-**[IB Technicals Fluency Trainer](https://github.com/bakulbadwal/ibtrainer)** — merger-model cockpit, purchase-price allocator, and DCF sensitivity heatmap built as live playgrounds, backed by generative math drills and spaced repetition. 
+**[IB Technicals Fluency Trainer](https://github.com/bakulbadwal/ibtrainer)** — merger-model cockpit, purchase-price allocator, DCF sensitivity heatmap built as live playgrounds, generative math drills, spaced repetition. 
 
-**[Consulting Case Prep Trainer](https://github.com/bakulbadwal/consultingtrainer)** — profit-diagnosis game that scores hypothesis-driven reasoning under a limited information budget, not memorized frameworks, plus a market-sizing builder and exhibit reader.
+**[Consulting Case Prep Trainer](https://github.com/bakulbadwal/consultingtrainer)** — profit-diagnosis game scores hypothesis-driven reasoning under a limited information budget, market-sizing builder, exhibit reader.
 
-**[The Operator's P&L Room](https://github.com/bakulbadwal/p-lroom)** — eight-quarter run-the-business simulator under real leverage and covenants, paired with a 13-week cash-crisis room for distress-operator decision-making.
+**[The Operator's P&L Room](https://github.com/bakulbadwal/p-lroom)** — eight-quarter run-the-business simulator under real leverage and covenants, 13-week cash-crisis room for distress-operator decision-making.
 
 ## How these are built
 
