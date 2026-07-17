@@ -1,6 +1,6 @@
 # Hi, I'm Bakul
 
-- 🎓 UVA Darden '27
+- 🎓 currrently @ UVA Darden '27
 - 🛠️ Building for fun + use cases in ai x bio/longevity, ai x blockchain, VC and PE, AI-native services, e-learning, etc.
 
 ## Projects
