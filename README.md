@@ -24,19 +24,19 @@ Computes a **PhenoAge** biological-age clock, benchmarks vs. Bryan Johnson's pub
 
 ### AI × VC & PE
 
-**[Deal Docket](https://github.com/bakulbadwal/dealdocket)** — deal-screening dashboard built around an AI-enabled service-roll-up thesis with five-box scoring framework whose weights you can drag live to re-rank a pipeline.<br>
+**[Deal Docket](https://github.com/bakulbadwal/dealdocket)** — deal-screening dashboard built around an AI-enabled service-roll-up thesis; five-box scoring framework with adjustable weights.<br>
 > [Live →](https://bakulbadwal.github.io/dealdocket/)
 
-**[The AI Stack](https://github.com/bakulbadwal/aistack)** — interactive map of the AI industry from silicon to application layer, ~20 company profiles, three money-flow traces, and a personal AI-cost calculator (subscription vs. pay-as-you-go, at your own usage).<br>
+**[The AI Stack](https://github.com/bakulbadwal/aistack)** — interactive map of the AI industry from silicon to application layer, ~30 company profiles, three money-flow traces, and a personal AI-cost calculator (subscription vs. pay-as-you-go, at your own usage).<br>
 > [Live →](https://aistacked.netlify.app/)
 
 ### E-Learning
 
-**[IB Technicals Fluency Trainer](https://github.com/bakulbadwal/ibtrainer)** — merger-model cockpit, purchase-price allocator, DCF sensitivity heatmap built as live playgrounds, generative math drills, spaced repetition. 
+**[IB Technicals Fluency Trainer](https://github.com/bakulbadwal/ibtrainer)** — merger-model cockpit, purchase-price allocator, DCF sensitivity heatmap - live playgrounds, generative math drills, spaced repetition. 
 
 **[Consulting Case Prep Trainer](https://github.com/bakulbadwal/consultingtrainer)** — profit-diagnosis game scores hypothesis-driven reasoning under a limited information budget, market-sizing builder, exhibit reader.
 
-**[The Operator's P&L Room](https://github.com/bakulbadwal/p-lroom)** — eight-quarter run-the-business simulator under real leverage and covenants, 13-week cash-crisis room for distress-operator decision-making.
+**[The Operator's P&L Room](https://github.com/bakulbadwal/p-lroom)** — eight-quarter run-the-business simulator under leverage and covenants, 13-week cash-crisis room for distress-operator decision-making.
 
 ## How these are built
 
