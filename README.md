@@ -1,6 +1,6 @@
 # Hi, I'm Bakul
 
-- 🎓 MBA @ UVA Darden '27 - applied AI builder who ships products end-to-end.
+- 🎓 MBA @ UVA Darden '27 - applied AI builder shipping products end-to-end.
 - 🛠️ Learning + building in ai x bio/longevity, ai x blockchain, VC and PE, AI-native services, e-learning, etc.
 - 📫 Badwalb27@darden.virginia.edu
 
@@ -20,7 +20,7 @@
 
 Computes a **PhenoAge** biological-age clock, benchmarks vs. Bryan Johnson's public Blueprint targets and age/sex population cohorts, runs N-of-1 correlation engine quantifying what each input (nootropics, biohacking, fitness, sleep, medication, etc.) does to HRV, recovery, resilience scores + 28-day before/after analysis on interventions. Genetically personalized by cross-referencing against my DNA via 23andMe (caffeine/dopamine pharmacogenomics, APOE and metabolic-risk variants). Daily auto-refresh via MCP + REST APIs.
 
-> **OpenAI Build Week 2026:** [Public synthetic-data evidence lab →](https://bakulbadwal.github.io/liveforever-buildweek/) · [Repository](https://github.com/bakulbadwal/liveforever-buildweek) — separate from the private personal-health system above.
+> **OpenAI Build Week 2026:** [Public synthetic-data evidence lab →](https://bakulbadwal.github.io/liveforever-buildweek/) · [Repository](https://github.com/bakulbadwal/liveforever-buildweek) — separate from the private system.
 
 **[PhaseSignal](https://github.com/bakulbadwal/phasesignal)** — pulls real, live trial data from the ClinicalTrials.gov API, scores against a cited published base rate, adjusted by four computed factors with a live-reweighting breakdown.<br>
 > [Live →](https://bakulbadwal.github.io/phasesignal/)
