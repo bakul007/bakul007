@@ -39,6 +39,10 @@ Computes a **PhenoAge** biological-age clock, benchmarks vs. Bryan Johnson's pub
 
 **[The Operator's P&L Room](https://github.com/bakulbadwal/p-lroom)** — eight-quarter run-the-business simulator under leverage and covenants, 13-week cash-crisis room for distress-operator decision-making.
 
+### AI × Productivity
+
+**[AI Digest](https://github.com/bakulbadwal/ai-digest)** — a personalizable AI + markets briefing that runs entirely inside Claude Code, three times a week: frontier model releases, what builders are actually shipping (via a live-X read), a GitHub/Hugging Face scout, and markets/deals/careers signal. Not a newsletter — a template, not a feed; you make it yours by editing one file.
+
 ## Product Case Studies
 
 Short product write-ups — **problem · users · product decisions & tradeoffs · how I'd measure success · roadmap**:
