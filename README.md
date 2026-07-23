@@ -11,7 +11,7 @@
 **[Tranche AI](https://github.com/bakulbadwal/tranche-ai)** — condition-gated capital release for VC deals: an AI agent reviews milestone evidence and posts a signed, on-chain attestation (EAS). Solidity, live on Base Sepolia network.<br>
 > [Live →](https://tranche-ai.vercel.app)
 
-**[TraceHound](https://github.com/bakulbadwal/tracehound)** — agentic crypto hack tracer: live hop-by-hop tracing and narration from compromised wallet via Etherscan API, cross-references OFAC watchlist populated with sanctioned addresses from Treasury's SDN list. Built from experience with federal law enforcement on a hack + tracking/referring $6M of crypto crime.<br>
+**[TraceHound](https://github.com/bakulbadwal/tracehound)** — agentic crypto hack tracer: live hop-by-hop tracing and narration from compromised wallet via Etherscan API, cross-references OFAC watchlist populated with sanctioned addresses from Treasury's SDN list. Built from experience with federal law enforcement on crypto crime.<br>
 > [Live →](https://tracehound.vercel.app)
 
 ### AI × Bio/Longevity
