@@ -32,7 +32,7 @@ Computes a **PhenoAge** biological-age clock, benchmarks vs. public Blueprint ta
 **[The AI Stack](https://github.com/bakulbadwal/aistack)** — interactive map of the AI industry from silicon to application layer, ~30 company profiles, three money-flow traces, and a personal AI-cost calculator (subscription vs. pay-as-you-go, at your own usage).<br>
 > [Live →](https://aistacked.netlify.app/)
 
-**[AI Digest](https://github.com/bakulbadwal/ai-digest)** — a personalizable AI + markets briefing that runs inside your preferred agent harness, 3x/week: track frontier model releases, what top builders are shipping (Grok API calls for live-X read), a GitHub/Hugging Face scout, and markets/deals/careers signal. Not a newsletter.**
+**[AI Digest](https://github.com/bakulbadwal/ai-digest)** — personalizable AI + markets briefing that runs inside your preferred agent harness (not a newsletter), 3x/week: track frontier model releases, top builders (Grok API calls for live-X read), a GitHub/Hugging Face scout, and markets/deals/careers signal.
 
 ### E-Learning
 
